@@ -15,7 +15,7 @@ export const asyncLoop: AsyncLoopType = async (elements, callbaack, index = 0) =
   if (element && element.status !== 'done') {
     callbaack("fetch", index);
 
-    const result = await fakeApi(element, 2000);
+    await fakeApi(element, 2000);
 
     callbaack("done", index);
 
