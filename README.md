@@ -3,6 +3,8 @@
 This repository contains a test task app for the "AI Vision" company.
 [Open build on Vercel](https://ai-vision-test.vercel.app/)
 
+![Screenshot 2023-08-10 140042](https://github.com/maximKaschitskiy/ai-vision-test/assets/67905360/a27c8e24-b89f-4a04-a578-b59b997de0c8)
+
 ## Description
 Objective: Using react build a component for selecting and uploading files to Yandex.disk.
 We need to provide selection from 1 to 100 files
